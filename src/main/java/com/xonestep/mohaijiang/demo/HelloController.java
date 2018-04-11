@@ -16,6 +16,6 @@ public class HelloController {
     @GetMapping
     public String sayHello(){
 
-        return "hello";
+        return "hello 2";
     }
 }
