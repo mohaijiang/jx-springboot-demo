@@ -16,6 +16,6 @@ public class HelloController {
     @GetMapping
     public String sayHello(){
 
-        return "hello 2";
+        return "hello 2018-04-27";
     }
 }
